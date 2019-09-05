@@ -7,8 +7,8 @@ permalink: projects/EprOpr
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-01
 labels:
-  - Lisp
-  - GitHub
+  - Java
+  - Algorithms
 summary: Text formatting tool for Air Force personnel writing an Enlisted Performance Report (EPR).
 ---
 
@@ -19,5 +19,5 @@ The EPR Editing Tool gives the user a text box so type out the bullet and select
 A prototype was submitted as a proof-of-concept and was given to Air Force personnel for initial testing and feedback. Some changes were made, but there are more features that need to be added. This program was originally written using Java and the GUI was made using Java's JavaFX platform. It is a downloadable package that works with both Windows and Linux based operating systems. However, shortly after this program was written, Oracle released a new version of Java that no longer supported JavaFX. Therefore, this project will be redone in JavaScript and will be released as an unclassified website.
 
 
-Source: <a href="https://github.com/ErBot/BulletAssistant"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/ErBot/BulletAssistant"><i class="large github icon "></i>ErBot/BulletAssistant</a>
 
