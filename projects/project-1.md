@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/hudphoto.jpg
-title: Micromouse
+title: Motorcycle Heads-Up Display (H.U.D)
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
