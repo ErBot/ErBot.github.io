@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Robotics and Automation",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Embeded Systems",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Electronics Engineering",
       "keywords": [
       ]
     }
@@ -50,33 +50,30 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "React",
+        "HTML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows10",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.3",
       "courses": [
       ]
     }
