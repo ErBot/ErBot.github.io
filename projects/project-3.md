@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/codeshot.jpg
+title: Automatic Acronym Find and Replace
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: Acronym replacing tool for for Air Force personnel writing  an EPR or OPR.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
