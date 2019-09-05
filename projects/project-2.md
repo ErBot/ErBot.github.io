@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/dronephoto.jpg
-title: Vacay
+title: Drone Security
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
