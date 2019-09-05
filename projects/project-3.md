@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/codeshot.jpg
-title: Automatic Acronym Find and Replace
-permalink: projects/cotton
+image: images/oprPhoto.jpg
+title: Air Force EPR/OPR Editing Tool
+permalink: projects/EprOpr
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-12-01
 labels:
   - Lisp
   - GitHub
-summary: Acronym replacing tool for for Air Force personnel writing  an EPR or OPR.
+summary: Acronym formatting tool for for Air Force personnel writing  an EPRs  and/or OPRs.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
