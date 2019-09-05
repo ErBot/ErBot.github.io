@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/hudphoto.jpg
-title: Motorcycle Heads-Up Display (H.U.D)
+title: Motorcycle Heads-Up Display (HUD)
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My team developed a prototype HUD that can be inserted into any helmet to display rear blindspots.
 ---
 
 <div class="ui small rounded images">
