@@ -11,7 +11,7 @@ labels:
   - Arduino
   - C++
   - Optics
-summary: My team developed a prototype HUD that can be inserted into any helmet to display rear blindspots.
+summary: Prototype HUD that can be inserted into any helmet to display rear blindspots.
 ---
 
 <div class="ui small rounded images">
