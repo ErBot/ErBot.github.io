@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hudphoto.jpg
+image: images/hudphoto1.jpg
 title: Motorcycle Heads-Up Display (HUD)
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
