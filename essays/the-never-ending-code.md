@@ -14,7 +14,8 @@ I began working with software at a young age. As a child, I began my coding jour
 
 Now it seems that there are lifetimes worth of code to learn. I’ll only scratch the surface of a handful of languages, but I’m excited to build my toolset and make my contribution to the world. I look forward to having a role in the advancements of robotics, automation, and machine learning. Although I’ll admit that the idea of a true artificial intelligence is somewhat terrifying, I want to be a part of it (even if we accidently give birth to Skynet).
 
-<img class="ui tiny right spaced image" src="../images/terminator.jpg" width="300" height="200">*Skynet: It's probably going to happen*
+<img class="ui tiny right spaced image" src="../images/terminator.jpg" width="300" height="200">
+*Skynet: It's probably going to happen*
 
 Through the rest of my engineering career I hope to gain the programming skills needed to create complex algorithms and data structures. My two short term goal are to learn how to quickly develop web apps using React and learn the basics behind communications vulnerability exploitation. My long-term goal is to design robotics and embedded systems that are both innovative and secure. The amount of knowledge available far exceeds what I can possibly hope to retain, but I strive to learn enough to make a significant contribution during my time. 
 
