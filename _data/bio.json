@@ -80,6 +80,17 @@
   ],
   "work": [
     {
+      "company": "Hawaii Air National Guard",
+      "position": "Radio and SatCom Technician",
+      "website": "",
+      "startDate": "2019-02-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues",
+        "Maintain integrity of communications through proper network encryption"
+      ]
+    },{
       "company": "UH Manoa Student Athletics Academic Services",
       "position": "I.T. Support - Client Systems",
       "website": "",
@@ -91,18 +102,7 @@
         "Assist students and staff with computer and database related problems"
       ]
     },
-    {
-      "company": "Hawaii Air National Guard",
-      "position": "Radio and SatCom Technician",
-      "website": "",
-      "startDate": "2019-02-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues",
-        "Maintain integrity of communications through proper network encryption"
-      ]
-    },
+    
     {
       "company": "U.S. Army",
       "position": "Intelligence Systems Maintainer",
