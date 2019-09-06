@@ -102,33 +102,45 @@
         "Troubleshoot software, hardware and networking issues",
         "Maintain integrity of communications through proper network encryption"
       ]
+    },
+    {
+      "company": "U.S. Army",
+      "position": "Intelligence Systems Maintainer",
+      "website": "",
+      "startDate": "2013-10-01",
+      "endDate": "2016-07-01",
+      "summary": "",
+      "highlights": [
+        "Configured and maintained 300+ systems across 5 classified networks to support intelligence operations",
+        "Requested, installed, and integrated advanced hardware/software to meet increasing demands and evolving mission requirementsn"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Student Veteran Organization",
+      "website": "",
+      "position": "",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assist other veteran students with school work",
+        "Volunteer Events"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Henry Hap Arnold Scholarship",
+      "title": "Henry Hap Arnold Grant",
       "date": "2018-Present",
-      "awarder": "",
-      "summary": "Scholarships awarded to personnel associated with the active duty component of the Air Force"
+      "awarder": "Air Force Aid Society",
+      "summary": "Grants awarded to personnel associated with the active duty component of the Air Force"
     },
     {
-      "title": "Second place",
+      "title": "Second Place",
       "date": "2018",
-      "awarder": "Air Force SPARK Competition",
+      "awarder": "Air Force SPARK Competition - Hickam AFB",
       "summary": "Software competition where prototypes were submitted to address Air Force problems. See my portfolio site for more details."
     }
   ],
