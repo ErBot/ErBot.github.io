@@ -11,7 +11,7 @@ labels:
   - IDA
   - Drones
  
-summary: An ongoing Junior Project for exploiting vulnerabilites in commercial drones based on wireless signal profiling
+summary: An ongoing Junior Project for exploiting vulnerabilites in commercial drones based on wireless signal profiling.
 ---
 
 This is a collaborative Junior Project for exploiting vulnerabilities in commercial drones. The goal is to scan for wireless signals and analyze them to identify the drone in question and the hardware onboard that drone. Once identified, the drone can be hacked if there are existing vulnerabilities for that kind of drone.
