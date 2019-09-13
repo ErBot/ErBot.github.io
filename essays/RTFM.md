@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: RTFM
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-12
+labels:
+  - Programming
+---
+
+
 <h2>Good question...</h2>
 
 I'm trying to make a function that will compare multiple variables to an integer and output a string of three letters. I was wondering if there was a way to translate this into Python. So say:
