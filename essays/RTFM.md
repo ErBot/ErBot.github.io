@@ -41,6 +41,6 @@ What i have now
   
   https://stackoverflow.com/questions/16203445/how-do-i-use-a-for-loop-to-get-file-names-and-then-use-them
   
-  
+  Bad question because they assume that the best method to solve the problem is to use a for loop.
   
   
