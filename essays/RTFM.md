@@ -38,3 +38,9 @@ What i have now
 
   for %F in (*.*) do (set name=@fname
   echo name >> text.txt)
+  
+  https://stackoverflow.com/questions/16203445/how-do-i-use-a-for-loop-to-get-file-names-and-then-use-them
+  
+  
+  
+  
