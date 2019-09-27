@@ -15,4 +15,6 @@ ESLint not only helps with readability and functionality, but it also can help l
 
 Going beyond the formatting standards of ESLint, there should be stringent standards on commenting on blocks of code. When I learned Java, our instructor made it a requirement to create a comment box above each function, detailing its purpose, parameters, and output. Not only did this break up the blocks of code into easily identifiable sections, but it helped me reuse my old code months later. I was able to import old code into new programs without having to manually go through and figure out all the parameters of the functions I wanted to use. 
 
+<img src="../images/commenting.png" width="600" height="400">
+
 The only thing harder to use than your old (uncommented) code is someone else’s uncommented code. There have been many instances where I’ve had to either fix or reference someone else’s uncommented code and it was a very unpleasant experience. What should have taken a few minutes ended up taking hours. Instead of having clear direction, I had to manually decode the person’s algorithms and figure out how to adjust accordingly. Comments seem to be severely underrated, and I for one, am not opposed to adding those requirements to ESLint. 
