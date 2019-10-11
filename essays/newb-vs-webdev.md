@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Newb vs. WebDev: Round 1
+title: Newb vs WebDev Round 1
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
