@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/oprPhoto.jpg
-title: Air Force EPR Editing Tool
-permalink: projects/EprOpr
+title: Studious Manoa
+permalink: projects/StudiousManoa
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-01
+date: 2019-12-18
 labels:
-  - Java
-  - Algorithms
-summary: Text formatting tool for Air Force personnel writing an Enlisted Performance Report (EPR).
+  - React
+  - Web Application
+summary: Create a web application for users to find study spots around UH Manoa.
 ---
 
 An Air Force EPR is a form used by supervisors to rate their subordinate's career accomplishments for that year. There is a section where the writer is supposed to write bullet points summarizing the major accomplishments. The problem is that these bullets need to be formatted in such a way that they only take up one line's worth of space and leave little to no whitespace at the end of each line. This forces the writer to use approved acronyms and abbreviate commonly used words that aren't normally abbreviated when writing standard English.
@@ -21,5 +21,5 @@ A prototype was submitted as a proof-of-concept and was given to Air Force perso
 
 
 
-Source: <a href="https://github.com/ErBot/BulletAssistant"><i class="large github icon "></i>ErBot/BulletAssistant</a>
+Source: <a href="https://github.com/studious-manoa/studious-manoa"><i class="large github icon "></i>ErBot/BulletAssistant</a>
 
