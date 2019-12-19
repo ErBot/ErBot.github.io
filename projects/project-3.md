@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/landing2.png
 title: Studious Manoa
 permalink: projects/StudiousManoa
 # All dates must be YYYY-MM-DD format!
