@@ -9,7 +9,7 @@ labels:
   - UAV Drone Security
 ---
 
-# Abstract
+<h1> Abstract </h1>
 	The beginning of the semester involved familiarization with Kali Linux and the Wireshark sections of the course book. Namely, the team practiced skills for sniffing network traffic and collecting data packets. Then, the team collected data packets from three types of drones - the Intel, the Sky Viper, and the 3DR Solo. The purpose was to detect unique message patterns in order to adequately profile each drone solely based on the message traffic collected. With the data packet files in hand, the team built python scripts that analyzed the MAVLink message IDs/payloads and then organized the information into spreadsheets and graphs to begin building profiles for these drones. Although multiple drones operate using MAVLINK software, their message traffic varied based on programming and the physical components present on the drones. After multiple data-collecting trials, individual heartbeat patterns were detected, but more data is required to build more accurate profiles.
   
 # Introduction
