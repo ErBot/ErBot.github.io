@@ -7,15 +7,12 @@ permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-05
 labels:
-  - Ghidra
-  - IDA
-  - Drones
+  - Wireshark
+  - Cyber Security
+  - UAV Drones
  
-summary: An ongoing Junior Project for exploiting vulnerabilites in commercial drones based on wireless signal profiling.
+summary: An ongoing project for exploiting vulnerabilites in commercial drones based on wireless signal profiling.
 ---
 
-This is a collaborative Junior Project for exploiting vulnerabilities in commercial drones. The goal is to scan for wireless signals and analyze them to identify the drone in question and the hardware onboard that drone. Once identified, the drone can be hacked if there are existing vulnerabilities for that kind of drone.
+This is a collaborative project for identifying and exploiting vulnerabilities in commercial drones. The goal is to scan a wireless network traffic near an active drone and identify the drone in question based on patterns in network traffic. Once identified, the drone can be landed or disabled by exploiting any existing vulnerabilities for that kind of drone. The project was split into two parts, profiling and hacking. Our portion of the of this project focused on reverse engineering drone network traffic to create a database of profiling data for each test drone. A full breakdown of last semester's results can be found in this <a href="https://erbot.github.io/essays/UAV-Drone-Profiling.html">essay</a>.
 
-The second part of this project entails reverse engineering the software controlling a drone so that we can analyze the program for potential vulnerabilities. By logging the data, we can create a database of drone profiles to maximize the efficiency of the first part of the project.
-
-This is an ongoing project and results will be posted at the end of the semester.
