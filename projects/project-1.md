@@ -21,16 +21,19 @@ Our Motorcycle HUD project is designed to provide a universal drop-in HUD to inc
 The HUD system is composed of three subsystems. The first part is a wirelessly controlled servo-mounted camera that is to be placed on the back of the motorcycle. The servo will automatically pivot in the direction of the intended lane change when the rider turns on either turn signal. A sample circuit setup is shown in Figure 1 below.
 
 <img class="ui image" src="../images/cameraCircuit.png">
-<h3>Figure 1. Servo-mounted camera circuit</h3> 
+<h3>Figure 1. Wirelessly controlled servo circuit</h3> 
 
-The second part of the system is the camera-display system. Our original prototype used long wires to connect the camera to a micro LCD display. However, the next version will have a wireless connection between the camera and display.
+The second part of the system is the camera-display system. Our original prototype used long wires to connect the camera to a micro LCD display. However, the next version will have a wireless connection between the camera circuit and LCD display. A sample circuit for the camera-display feed  is shown in Figure 2 below.
 
 <img class="ui image" src="../images/arduinoCircuit.png">
 <h3>Figure 2. Arduino used as video processor</h3> 
 
-The third subsystem is the optics component. This consists of two lenses and a glass pane positioned in such a way as to project a virtual image of the display without obstructing the rider's field of view. The magnification of the lenses were chosen so that the virtual image is large enough and far enough as to be seen without the rider having to refocus their eyes.
+The third subsystem is the optics component. This consists of two lenses and a glass pane positioned in such a way as to project a virtual image of the display without obstructing the rider's field of view. The magnification power of the lenses were chosen so that the virtual image is large enough and far enough as to be seen without the rider having to refocus their eyes. Doing so reduces the strain on the rider's eyes and minimizes the reaction time when changing focal points. The display pane was inserted in the helmet as shown in Figure 3 below.
 
-For this project, I was the lead programmer who was responsible for programming the Arduino controllers.  I started by programming the basics, such as wireless communication between devices and mapping the controls to the servo. The code used to supply camera feed to the display was sourced from open projects on GitHub. I was also in charge of calculating the optimal positioning of our optics. My partner, Keenan Lee, and I both contributed to the wiring and soldering of the electrical components.
+<img class="ui image" src="../images/arduinoCircuit.png">
+<h3>Figure 3. Transparent Heads Up Display in helmet</h3> 
+
+For this project, I was the lead programmer who was responsible for programming the Arduino controllers. I started by programming the basics, such as wireless communication between devices and mapping the controls to the servo. The code used to supply camera feed to the LCD screen was sourced from open projects on GitHub. My partner, Keenan Lee, and I both contributed to the wiring and soldering of the electrical components. 
 
   
   
