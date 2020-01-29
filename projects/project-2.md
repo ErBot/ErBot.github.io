@@ -14,6 +14,10 @@ labels:
 summary: An ongoing project for exploiting vulnerabilites in commercial drones based on wireless signal profiling.
 ---
 <img class="ui image" src="../images/IMG2.jpg" width="613" height="361">
-<h1>UAV Drone Profiling</h1>
-This is a collaborative project for identifying and exploiting vulnerabilities in commercial drones. The goal is to scan a wireless network traffic near an active drone and identify the drone in question based on patterns in network traffic. Once identified, the drone can be landed or disabled by exploiting any existing vulnerabilities for that kind of drone. The project was split into two parts, profiling and hacking. Our portion of the of this project focused on reverse engineering drone network traffic to create a database of profiling data for each test drone. A full breakdown of last semester's results can be found in this <a href="https://erbot.github.io/essays/UAV-Drone-Profiling.html">essay</a>.
+<h2>Abstract</h2>
+This is a collaborative project for identifying and exploiting vulnerabilities in commercial drones. The goal is to scan a wireless network traffic near an active drone and identify the drone in question based on patterns in network traffic. Once identified, the drone can be landed or disabled by exploiting any existing vulnerabilities for that kind of drone. The project was split into two parts, profiling and hacking. Our portion of the of this project focused on reverse engineering drone network traffic to create a database of profiling data for each test drone. A full breakdown of last semester's results can be found in the link below: 
+
+</3><a href="https://erbot.github.io/essays/UAV-Drone-Profiling.html">Detailed Essay</a></h3>
+
+
 
