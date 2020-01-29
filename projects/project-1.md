@@ -14,7 +14,7 @@ labels:
 summary: Prototype HUD that can be inserted into any helmet to display rear blindspots.
 ---
 
-<h1>Motorcycle Heads Up Display</h1> 
+<h2>Inroduction</h2> 
 Our Motorcycle HUD project is designed to provide a universal drop-in HUD to increase a motorcyclist's field of view. The wind drag caused by turning the helmet into a less aerodynamic position at higher speeds can cause the rider's bodyweight to shift, which in turn causes the rider to quickly drift into another lane position. At higher speeds, the drag force exerted on riders' helmets can be strong enough as to torque the neck enough to cause muscle strains. The goal of this project is to minimize the amount of time riders must spend turning their head when traveling at speed. 
 
 <h2>Components</h2>
@@ -31,7 +31,7 @@ The second part of the system is the camera-display system. Our original prototy
 The third subsystem is the optics component. This consists of two lenses and a glass pane positioned in such a way as to project a virtual image of the display without obstructing the rider's field of view. The magnification power of the lenses were chosen so that the virtual image is large enough and far enough as to be seen without the rider having to refocus their eyes. Doing so reduces the strain on the rider's eyes and minimizes the reaction time when changing focal points. The display pane was inserted in the helmet as shown in Figure 3 below.
 
 <img class="ui image" src="../images/hudphoto3.jpg" width="400" height="400">
-<h3>Figure 3. Transparent Heads Up Display in helmet</h3> 
+<h3>Figure 3. Transparent HUD in helmet</h3> 
 
 For this project, I was the lead programmer who was responsible for programming the Arduino controllers. I started by programming the basics, such as wireless communication between devices and mapping the controls to the servo. The code used to supply camera feed to the LCD screen was sourced from open projects on GitHub. My partner, Keenan Lee, and I both contributed to the wiring and soldering of the electrical components. 
 
