@@ -93,7 +93,9 @@
         "Troubleshoot software, hardware and networking issues",
         "Maintain integrity of communications through proper network encryption"
       ]
-    },{
+    },
+    
+    {
       "company": "UH Manoa Student Athletics Academic Services",
       "position": "I.T. Support - Client Systems",
       "website": "",
@@ -116,6 +118,19 @@
       "highlights": [
         "Configured and maintained 300+ systems across 5 classified networks to support intelligence operations",
         "Requested, installed, and integrated advanced hardware/software to meet increasing demands and evolving mission requirements"
+      ]
+    },
+    
+    {
+      "company": "U.S. Army",
+      "position": "Intelligence Analyst",
+      "website": "",
+      "startDate": "2012-11-01",
+      "endDate": "2013-12-01",
+      "summary": "",
+      "highlights": [
+        "Prepared multi-sourced intelligence products of current environmental conditions to provide situational awareness to senior leadership",
+        "Assisted in the analysis and evaluation of intelligence holdings to determine changes in enemy capabilities, vulnerabilities and courses of action"
       ]
     }
   ],
