@@ -19,7 +19,7 @@ Our final software engineering project for ICS 314 was to develop a prototype we
 <h3>Links</h3>
 Our Prototype Site: <a href="https://studious-manoa.github.io/">Studious Manoa</a>
 
-Our Development Site: <a href="https://studious-manoa.github.io/">Studious Manoa</a>
+Our Development Site: <a href="https://studious-manoa.github.io/">github.io Page</a>
 
 Our GitHub Repo: <a href="https://github.com/studious-manoa/studious-manoa"><i class="large github icon "></i></a>
 
