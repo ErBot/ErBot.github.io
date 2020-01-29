@@ -54,7 +54,8 @@
         "Javascript",
         "React",
         "HTML",
-        "Python"
+        "Python",
+        "MongoDB"
       ]
     },
     {
@@ -71,11 +72,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2021)",
+      "area": "Computer Engineering (expected Fall 2020)",
       "studyType": "B.S.",
       "startDate": "2018-01-01",
       "endDate": "Present",
-      "gpa": "3.3",
+      "gpa": "3.2",
       "courses": [
       ]
     }
